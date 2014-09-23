@@ -1,0 +1,9 @@
+{
+  "uuid": "b0086cef-38d7-493e-bda5-d4750f57451e",
+  "name": "sbro",
+  "description": "self browse",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "self.browse(cr,uid,ids,context)",
+  "location": "FILE"
+}

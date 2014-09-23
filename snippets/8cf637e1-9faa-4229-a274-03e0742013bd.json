@@ -1,0 +1,13 @@
+{
+  "uuid": "8cf637e1-9faa-4229-a274-03e0742013bd",
+  "name": "definirMethod",
+  "description": "method definition",
+  "extraSearchTerms": [
+    "method"
+  ],
+  "tags": [
+    "method"
+  ],
+  "code": "def method()dasdlkjlkjas",
+  "location": "FILE"
+}
